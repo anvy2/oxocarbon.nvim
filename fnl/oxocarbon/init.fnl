@@ -613,6 +613,13 @@
 (custom-set-face! :NvimTreeOpenedFolderName [] {:fg oxocarbon.base15 :bg oxocarbon.none})
 (custom-set-face! :NvimTreeNormal [] {:fg oxocarbon.base04 :bg oxocarbon.base00})
 
+;; neotree
+
+(custom-set-face! :NeoTreeNormal [] {:fg oxocarbon.base04 :bg oxocarbon.base00})
+(custom-set-face! :NeoTreeDirectoryIcon [] {:fg oxocarbon.base12 :bg oxocarbon.none})
+(custom-set-face! :NeoTreeDirectoryName [] {:fg oxocarbon.base09 :bg oxocarbon.none})
+(custom-set-face! :NeoTreeWinSeparator [] {:fg oxocarbon.base00 :bg oxocarbon.base00})
+
 ;; neogit
 
 (custom-set-face! :NeogitBranch [] {:fg oxocarbon.base10 :bg oxocarbon.none})
