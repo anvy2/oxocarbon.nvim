@@ -304,7 +304,7 @@
 (custom-set-face! :Delimeter [] {:fg oxocarbon.base06 :bg oxocarbon.none})
 (custom-set-face! :Exception [] {:fg oxocarbon.base09 :bg oxocarbon.none})
 (custom-set-face! :Float [] {:link "Number"})
-(custom-set-face! :Function [] {:fg oxocarbon.base08 :bg oxocarbon.none})
+(custom-set-face! :Function [] {:fg oxocarbon.base10 :bg oxocarbon.none})
 (custom-set-face! :Identifier [] {:fg oxocarbon.base04 :bg oxocarbon.none})
 (custom-set-face! :Include [] {:fg oxocarbon.base09 :bg oxocarbon.none})
 (custom-set-face! :Keyword [] {:fg oxocarbon.base09 :bg oxocarbon.none})
